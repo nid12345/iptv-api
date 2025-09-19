@@ -79,4 +79,12 @@ CETV-4
 茂名综合
 茂名公共
 
+🇭🇰香港频道,#genre#
+HK,https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/hk.txt$!
 
+
+📺影视频道,#genre#
+yingshi,https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/yingshi.txt$!
+
+📢广播频道,#genre#
+FM,https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/FM.txt$!
