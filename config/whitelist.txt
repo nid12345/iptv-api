@@ -3,9 +3,7 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
-https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/yingshi.txt
 
-
-https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/hk.txt
-
-https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/FM.txt
+https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/yingshi.m3u
+https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/hk.m3u
+https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/FM.m3u
