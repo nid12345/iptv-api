@@ -80,11 +80,11 @@ CETV-4
 茂名公共
 
 🇭🇰香港频道,#genre#
-HK,https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/hk.txt$!
+HK,https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/hk.m3u8$!
 
 
 📺影视频道,#genre#
-yingshi,https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/yingshi.txt$!
+yingshi,https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/yingshi.m3u8$!
 
 📢广播频道,#genre#
-FM,https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/FM.txt$!
+FM,https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/FM.m3u8$!
