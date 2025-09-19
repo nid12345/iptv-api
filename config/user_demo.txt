@@ -79,13 +79,4 @@ CETV-4
 茂名综合
 茂名公共
 
-港台,#genre#
-翡翠1,http://php.jdshipin.com:8880/smt.php?id=jade_twn$!
-翡翠2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$!
 
-🏛网络点播,#genre#
-哆啦A梦,https://live.iill.top/huya/11601963$!
-航海王,https://live.iill.top/huya/16913382$!
-七龙珠,https://live.iill.top/huya/11601966$!
-猫和老鼠,https://live.iill.top/huya/11352879$!
-中华小当家,https://live.iill.top/huya/11342413$!
