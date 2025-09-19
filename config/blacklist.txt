@@ -3,3 +3,8 @@
 /audio/
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+
+https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV
+http://jwplay.hebyun.com.cn/live
+http://j.x.bkpcp.top/jx/
+http://www.freetv.top
