@@ -9,7 +9,7 @@
 HOYtv 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv$!
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2$!
 
-📺影视频道,#genre#
+🖥️网络轮播,#genre#
 斗鱼老三国,https://live.iill.top/douyu/7459925$!
 斗鱼新三国,https://live.iill.top/douyu/5908256$!
 斗鱼狄仁杰,https://live.iill.top/douyu/12655359$!
