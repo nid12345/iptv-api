@@ -22,7 +22,7 @@ HOYtv 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 凤凰香港,http://bziyunshao.synology.me:8890/bysid/85
 凤凰香港,http://bziyunshao.synology.me:8890/bysid/85
 
-��影视频道,#genre#
+💻影视频道,#genre#
 斗鱼老三国,https://live.iill.top/douyu/7459925
 斗鱼新三国,https://live.iill.top/douyu/5908256
 斗鱼狄仁杰,https://live.iill.top/douyu/12655359
@@ -56,7 +56,7 @@ HOYtv 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 四驱兄弟,https://live.iill.top/huya/11352922
 
 📺央视频道,#genre#
-CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
+CCTV-1,http://101.23.150.109:9901/tsfile/live/0001_1.m3u8
 CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 CCTV-2,http://111.227.196.164:9901/tsfile/live/faacts/0002_1.m3u8
 CCTV-2,http://111.227.196.164:9901/tsfile/live/faacts/0002_1.m3u8
