@@ -16,11 +16,11 @@ http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-name="HOYtv 77" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOYtv 77.png" group-title="🇭🇰香港频道",HOYtv 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🇭🇰香港频道",凤凰中文
-http://zqh2333.top:2222/rtp/239.93.24.9:2192
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🇭🇰香港频道",凤凰中文
 http://live4play.uk/livehttpplay?channel_id=30014
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🇭🇰香港频道",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+http://zqh2333.top:2222/rtp/239.93.24.9:2192
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🇭🇰香港频道",凤凰香港
 http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🇭🇰香港频道",凤凰香港
@@ -47,10 +47,6 @@ https://live.iill.top/douyu/3949681
 https://live.iill.top/douyu/2287949
 #EXTINF:-1 tvg-name="斗鱼港剧间" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼港剧间.png" group-title="🖥️网络轮播",斗鱼港剧间
 https://live.iill.top/douyu/4549169
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://parking.treasureislandresortsworld.com:1001/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
-http://parking.treasureislandresortsworld.com:1001/hls/312/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
@@ -67,25 +63,15 @@ http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
 http://php.cqshushu.ggff.net/jzb.php?id=cctv9&公众号【医工学习日志】
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://parking.treasureislandresortsworld.com:1001/hls/305/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=37
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
-http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=34
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://lxajh.top/tv/hn.php?id=hnws
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://iptv.zkbhj.com/tv/url/go?id=540be5a7f351d5b11ba13983cdad8be5cc0f8547e764183236422572d6c3f85fc82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=35
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://218.17.33.178:53290/tsfile/live/0138_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://218.17.33.178:53290/tsfile/live/0121_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="翡翠1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠1.png" group-title="🕘️更新时间",2025-09-24 00:30:06
+#EXTINF:-1 tvg-name="翡翠1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠1.png" group-title="🕘️更新时间",2025-09-24 06:13:46
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
