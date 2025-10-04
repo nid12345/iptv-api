@@ -13,3 +13,6 @@ http://122.152.202.33
 http://8.138.7.223/tv
 https://player.cntv.cn/standard
 https://stream1.freetv.fun
+https://205.185.57:8081
+https://205.185.120.57:8081
+https://epg.pw
