@@ -16,3 +16,4 @@ https://stream1.freetv.fun
 https://205.185.57:8081
 https://205.185.120.57:8081
 https://epg.pw
+http://player.cntv.cn
