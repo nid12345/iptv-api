@@ -12,18 +12,6 @@ HOYtv 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv$!
 凤凰中文
 凤凰香港
 
-🖥️网络轮播,#genre#
-斗鱼老三国,https://live.iill.top/douyu/7459925$!
-斗鱼新三国,https://live.iill.top/douyu/5908256$!
-斗鱼狄仁杰,https://live.iill.top/douyu/12655359$!
-斗鱼狄仁杰,https://live.iill.top/douyu/6027991$!
-斗鱼猎鹰1949,https://live.iill.top/douyu/11931032$!
-斗鱼粤语影视,https://live.iill.top/douyu/11878141$!
-斗鱼庆余年,https://live.iill.top/douyu/7812810$!
-斗鱼爱情公寓,https://live.iill.top/douyu/4105989$!
-斗鱼海绵宝宝,https://live.iill.top/douyu/3949681$!
-斗鱼成龙历险记,https://live.iill.top/douyu/2287949$!
-斗鱼港剧间,https://live.iill.top/douyu/4549169$!
 
 
 
@@ -86,4 +74,20 @@ CCTV-17
 西藏卫视
 新疆卫视
 云南卫视
+
+
+
+
+🖥️网络轮播,#genre#
+斗鱼老三国,https://live.iill.top/douyu/7459925$!
+斗鱼新三国,https://live.iill.top/douyu/5908256$!
+斗鱼狄仁杰,https://live.iill.top/douyu/12655359$!
+斗鱼狄仁杰,https://live.iill.top/douyu/6027991$!
+斗鱼猎鹰1949,https://live.iill.top/douyu/11931032$!
+斗鱼粤语影视,https://live.iill.top/douyu/11878141$!
+斗鱼庆余年,https://live.iill.top/douyu/7812810$!
+斗鱼爱情公寓,https://live.iill.top/douyu/4105989$!
+斗鱼海绵宝宝,https://live.iill.top/douyu/3949681$!
+斗鱼成龙历险记,https://live.iill.top/douyu/2287949$!
+斗鱼港剧间,https://live.iill.top/douyu/4549169$!
 
