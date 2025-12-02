@@ -19,3 +19,8 @@ https://epg.pw
 http://player.cntv.cn
 http://205.185.120.57:8081/channel
 https://txmov2.a.kwimgs.com
+http://bxtv.3a
+http://106.53.99.30
+http://ali-m-l.cztv.com
+http://satellitepull.cnr.cn
+https://s1.abntelevision.com
