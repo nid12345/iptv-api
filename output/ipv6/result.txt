@@ -9,6 +9,7 @@
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-3.m3u8
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
@@ -41,7 +42,6 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
-CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695587329821377196.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776055177&major_anchor_level=common&sign=ac74dc524cbdead720cf92a07a9500ba&t_id=037-2026040612393649C2EF8C86D956C27616-IjtU2k
 CCTV-6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8
 CCTV-6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
 CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
@@ -72,7 +72,7 @@ CCTV-12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695579599148417708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776158026&major_anchor_level=common&sign=570d99ae8e46e223e5dcf8866006b64d&t_id=037-2026040717134608B5CC3E9E05A50957E4-1VdjWb
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419927&major_anchor_level=common&sign=f41395f47f27736d88b7f87262d4f2bc&t_id=037-2026041017584642E293BBFE84F500BAB4-4pI58E
 CCTV-13,https://hls-gateway.vpstv.net/streams/476899.m3u8
 CCTV-13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
 CCTV-13,https://t.freetv.fun/live/cctv13-21.m3u8
@@ -107,6 +107,7 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
+北京卫视,https://v.iill.top/api/bjws/index.m3u8
 北京卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
@@ -145,6 +146,7 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 河北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-13.php
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 吉林卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
@@ -171,6 +173,7 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 山东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 山西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
@@ -190,4 +193,4 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 云南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 🕘️更新时间,#genre#
-2026-04-11 07:01:50,http://r.jdshipin.com/qClQf
+2026-04-12 06:59:50,http://r.jdshipin.com/qClQf
