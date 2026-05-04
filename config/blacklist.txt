@@ -31,3 +31,4 @@ https://p2.bdstatic.com
 http://107.150.60.122
 http://cd-live-stream.news.cctvplus.com
 http://23.237.228.134
+rtmp://oc-play-ali.vipkid.com.cn
