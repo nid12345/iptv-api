@@ -58,7 +58,6 @@ CCTV-12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?expire=1778631127&sign=f7fbc45c8ffe10266d2c558cf1cceb3b&arch_hrchy=w1&exp_hrchy=w1&neq=1&major_anchor_level=common&t_id=037-202605060812061FE69CFD1A2912F11D3B-Pq7tSD
 CCTV-13,https://hls-gateway.vpstv.net/streams/476899.m3u8
 CCTV-13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
 CCTV-13,https://t.freetv.fun/live/cctv13-21.m3u8
@@ -81,6 +80,7 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
@@ -157,6 +157,7 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-4.php
 四川卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
@@ -173,4 +174,4 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 云南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 🕘️更新时间,#genre#
-2026-05-10 07:16:06,http://r.jdshipin.com/qClQf
+2026-05-11 07:19:05,http://r.jdshipin.com/qClQf
