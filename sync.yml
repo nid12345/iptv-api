@@ -1,3 +1,0 @@
-你的用户名/目标仓库名:   # 【示例：zhangsan/my-destination-repo】
-  - source: iptv-api/blob/master/output/user_result.m3u  # 【示例：docs/readme.txt】源仓库中的文件路径
-    dest: tvbox/blob/main/tvbox/live.txt # 【示例：docs/readme.txt】目标仓库中的存放路径
