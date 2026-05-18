@@ -2,7 +2,7 @@ name: Sync Files
 on:
   push:
     branches:
-      - master  # 如果你的默认分支是 'main'，请替换为 main
+      - master   # 如果你的默认分支是 main，就改成 main
   workflow_dispatch:
 
 jobs:
@@ -15,5 +15,4 @@ jobs:
         uses: BetaHuhn/repo-file-sync-action@v1
         with:
           GH_PAT: ${{ secrets.GH_PAT }}
-          # 这行是关键，告诉同步Action给PR打上"automerge"标签
-          PR_LABELS: automerge
+          PR_MERGE: true   # 这一行就是自动合并的关键
