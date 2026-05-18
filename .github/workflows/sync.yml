@@ -2,8 +2,8 @@ name: Sync Files
 on:
   push:
     branches:
-      - main  # 你可以根据需要修改分支名，例如 master
-  workflow_dispatch: # 允许你从 GitHub 网页端手动触发同步
+      - master  # 如果你的默认分支是 'main'，请替换为 main
+  workflow_dispatch:
 
 jobs:
   sync:
@@ -15,3 +15,5 @@ jobs:
         uses: BetaHuhn/repo-file-sync-action@v1
         with:
           GH_PAT: ${{ secrets.GH_PAT }}
+          # 这行是关键，告诉同步Action给PR打上"automerge"标签
+          PR_LABELS: automerge
