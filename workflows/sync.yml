@@ -1,0 +1,17 @@
+name: Sync Files
+on:
+  push:
+    branches:
+      - main  # 你可以根据需要修改分支名，例如 master
+  workflow_dispatch: # 允许你从 GitHub 网页端手动触发同步
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Run GitHub File Sync
+        uses: BetaHuhn/repo-file-sync-action@v1
+        with:
+          GH_PAT: ${{ secrets.GH_PAT }}
