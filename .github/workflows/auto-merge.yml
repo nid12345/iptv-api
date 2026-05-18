@@ -1,0 +1,22 @@
+name: Auto Merge Pull Requests
+
+on:
+  pull_request:
+    # 当有PR被标记或取消标记标签时触发
+    types: [labeled]
+
+jobs:
+  merge:
+    # 只对标签是 'automerge' 的PR运行
+    if: github.event.label.name == 'automerge'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge Pull Request
+        uses: pascalgn/automerge-action@v0.16.2
+        env:
+          # 使用和我们第一步相同的PAT密钥
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          # 设置合并方法，默认为合并提交(MERGE)
+          MERGE_METHOD: "MERGE"
+          # 不删除分支（通常在目标仓库不需要）
+          DELETE_BRANCH: "false"
