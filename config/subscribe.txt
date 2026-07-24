@@ -15,3 +15,5 @@ https://raw.githubusercontent.com/nid12345/tonkiang_crawler/refs/heads/main/outp
 
 
 https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/live.txt
+
+https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
