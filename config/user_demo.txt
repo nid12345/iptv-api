@@ -69,5 +69,15 @@ CCTV-17
 
 
 
+斗鱼,#genre#
+斗鱼,https://sub.ottiptv.cc/douyuyqk.m3u$!
+
+
+虎牙,#genre#
+虎牙,https://sub.ottiptv.cc/huyayqk.m3u$!
+
+
+yy轮播,#genre#
+yy轮播,https://sub.ottiptv.cc/yylunbo.m3u$!
 
 
