@@ -164,14 +164,5 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
 云南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
-斗鱼,#genre#
-斗鱼,https://sub.ottiptv.cc/douyuyqk.m3u
-
-虎牙,#genre#
-虎牙,https://sub.ottiptv.cc/huyayqk.m3u
-
-yy轮播,#genre#
-yy轮播,https://sub.ottiptv.cc/yylunbo.m3u
-
 🕘️更新时间,#genre#
-2026-09-12 11:57:13,http://r.jdshipin.com/qClQf
+2026-09-13 08:22:03,http://r.jdshipin.com/qClQf
