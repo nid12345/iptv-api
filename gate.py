@@ -58,22 +58,28 @@ DEFAULT_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 # --------------------------------------------------------------------------
 # 解析 / 工具
 # --------------------------------------------------------------------------
-def parse_m3u(path):
-    """读订阅文件，同时兼容两种格式：
+def parse_playlist(path):
+    """读订阅文件，返回 (items, fmt)，fmt ∈ {'m3u', 'txt'}。
 
-    - M3U：  #EXTINF:-1 ...,频道名  +  下一行 URL
-    - TXT：  频道名,URL            （DIYP / TVBox / iptv-api 的 diy.txt、local.txt）
+    两种格式都支持，并**保持原格式输出**（下游 Worker/播放器无需改动）：
+      M3U：  #EXTM3U / #EXTINF:-1 ...,频道名 / 下一行 URL
+      TXT：  组名,#genre#  /  频道名,URL        （DIYP / TVBox / iptv-api 的 txt 结果）
 
-    返回 [{'extinf','name','url'}]，extinf 用于原样输出。
+    items 元素: {'extinf','name','url','group'}
     """
-    out, extinf = [], None
+    out, extinf, group = [], None, ""
+    fmt = None
     with open(path, encoding="utf-8", errors="ignore") as f:
         for raw in f:
             line = raw.rstrip("\r\n")
             s = line.strip()
             if not s:
                 continue
+            if s.startswith("#EXTM3U"):
+                fmt = fmt or "m3u"
+                continue
             if s.startswith("#EXTINF"):
+                fmt = "m3u"
                 extinf = line
                 continue
             if s.startswith("#"):
@@ -81,16 +87,41 @@ def parse_m3u(path):
             if extinf is not None:
                 out.append({"extinf": extinf,
                             "name": extinf.split(",")[-1].strip(),
-                            "url": s})
+                            "url": s, "group": group})
                 extinf = None
+                continue
+            # TXT 分组行：组名,#genre#   （注意：不以 # 开头）
+            if s.endswith("#genre#"):
+                fmt = "txt"
+                group = s[: -len("#genre#")].rstrip(",").strip()
                 continue
             if "," in s and "://" in s:
                 head, _, tail = s.rpartition(",")
                 tail = tail.strip()
                 if tail.startswith(("http", "rtmp", "rtsp", "rtp", "udp")):
+                    fmt = fmt or "txt"
                     nm = head.strip() or f"ch{len(out) + 1}"
-                    out.append({"extinf": f"#EXTINF:-1,{nm}", "name": nm, "url": tail})
-    return out
+                    out.append({"extinf": f"#EXTINF:-1,{nm}", "name": nm,
+                                "url": tail, "group": group})
+    return out, (fmt or "m3u")
+
+
+def write_playlist(path, items, fmt):
+    """按输入时的格式写回，保证下游无需任何改动"""
+    with open(path, "w", encoding="utf-8") as f:
+        if fmt == "txt":
+            cur = None
+            for x in items:
+                g = x.get("group") or "未分组"
+                if g != cur:
+                    cur = g
+                    f.write(f"{g},#genre#\n")
+                f.write(f"{x['name']},{x['url']}\n")
+        else:
+            f.write("#EXTM3U\n")
+            for x in items:
+                f.write(x["extinf"] + "\n")
+                f.write(x["url"] + "\n")
 
 
 def host_of(url):
@@ -352,7 +383,8 @@ def main():
     opts = ap.parse_args()
 
     report = {"src": opts.src, "dst": opts.dst, "mode": "no-network" if opts.no_network else "full"}
-    items = parse_m3u(opts.src)
+    items, fmt = parse_playlist(opts.src)
+    report["format"] = fmt
     report["input_items"] = len(items)
     report["input_hosts"] = len({host_of(x["url"]) for x in items})
     if not items:
@@ -440,7 +472,7 @@ def main():
             pick = good[: opts.max_per_channel]
         gated.extend(pick)
 
-    gated.sort(key=lambda x: (x["name"], -x["rank"]))
+    gated.sort(key=lambda x: (x.get("group", ""), x["name"], -x["rank"]))
     report["output_items"] = len(gated)
     report["output_channels"] = len({x["name"] for x in gated})
     report["output_hosts"] = len({host_of(x["url"]) for x in gated})
@@ -451,11 +483,7 @@ def main():
         print("过滤后为空，拒绝写出（避免空文件覆盖可用结果）", file=sys.stderr)
         return 3
 
-    with open(opts.dst, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
-        for x in gated:
-            f.write(x["extinf"] + "\n")
-            f.write(x["url"] + "\n")
+    write_playlist(opts.dst, gated, fmt)
 
     print(f"输入 {report['input_items']} 条 -> 输出 {report['output_items']} 条"
           f"（{report['output_channels']} 个频道）")
