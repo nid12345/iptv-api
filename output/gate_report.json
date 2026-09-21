@@ -1,0 +1,19 @@
+{
+  "src": "output/result.m3u",
+  "dst": "output/gated.m3u",
+  "mode": "no-network",
+  "input_items": 2748,
+  "input_hosts": 340,
+  "dropped_protocol": 75,
+  "dropped_duplicate": 165,
+  "probe": "skipped",
+  "dropped_host_cap": 319,
+  "host_cap_per_domain": 376,
+  "restored_channels": 29,
+  "restored_items": 29,
+  "output_items": 1817,
+  "output_channels": 758,
+  "output_hosts": 290,
+  "warnings": [],
+  "warnings_total": 0
+}

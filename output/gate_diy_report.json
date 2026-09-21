@@ -1,0 +1,19 @@
+{
+  "src": "config/diy.txt",
+  "dst": "output/gated_diy.m3u",
+  "mode": "no-network",
+  "input_items": 107,
+  "input_hosts": 3,
+  "dropped_protocol": 0,
+  "dropped_duplicate": 0,
+  "probe": "skipped",
+  "dropped_host_cap": 0,
+  "host_cap_per_domain": 107,
+  "restored_channels": 0,
+  "restored_items": 0,
+  "output_items": 107,
+  "output_channels": 73,
+  "output_hosts": 3,
+  "warnings": [],
+  "warnings_total": 0
+}
