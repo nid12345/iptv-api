@@ -1,0 +1,59 @@
+name: 'Quality gate'
+
+# 在 "Update schedule" 产出新结果之后，对将要发布的播放列表做质量守门。
+# 注意：GitHub Actions 的 runner 在海外，测国内源没有意义（会把可用源大面积误判），
+# 因此这里只做结构性过滤（协议 / 去重 / 域名集中度 / 每频道配额）。
+# 需要完整质量探测时，请在国内网络的机器上手动运行：
+#     python gate.py --src output/result.m3u --dst output/gated.m3u --min-headroom 1.5
+
+on:
+  workflow_run:
+    workflows: ["Update schedule"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+
+      - name: Structural gate for result.m3u
+        run: |
+          python gate.py --src output/result.m3u \
+                         --dst output/gated.m3u \
+                         --no-network \
+                         --report output/gate_report.json
+
+      - name: Structural gate for config/diy.txt
+        continue-on-error: true
+        run: |
+          python gate.py --src config/diy.txt \
+                         --dst output/gated_diy.m3u \
+                         --no-network \
+                         --host-ratio 1.0 \
+                         --report output/gate_diy_report.json
+
+      - name: Commit gated playlists
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/gated.m3u output/gate_report.json
+          git add output/gated_diy.m3u output/gate_diy_report.json || true
+          if ! git diff --staged --quiet; then
+            git commit -m "Quality gate: refresh gated playlists"
+            git push
+          fi
