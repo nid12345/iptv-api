@@ -1,10 +1,20 @@
 name: 'Quality gate'
 
-# 在 "Update schedule" 产出新结果之后，对将要发布的播放列表做质量守门。
-# 注意：GitHub Actions 的 runner 在海外，测国内源没有意义（会把可用源大面积误判），
-# 因此这里只做结构性过滤（协议 / 去重 / 域名集中度 / 每频道配额）。
-# 需要完整质量探测时，请在国内网络的机器上手动运行：
-#     python gate.py --src output/result.m3u --dst output/gated.m3u --min-headroom 1.5
+# 对将要发布的订阅做质量守门。
+#
+# 目标文件固定为 output/user_result.txt —— 它由 Cloudflare Worker
+# (tvlive.nide.qzz.io) 直接对外提供，因此这里**原地更新**该文件
+# （原文件另备份为 user_result.raw.txt），下游链路无需任何改动。
+#
+# 重要限制：GitHub Actions 的 runner 在海外，测国内源会把可用源
+# 大面积误判为不可用，所以这里只做结构性过滤（协议 / 去重 / 域名集中度），
+# 且不削减每频道条数（没有质量信息时剪枝只会降低命中率）。
+#
+# 完整质量探测（headroom 实测）必须在**国内网络**的机器上执行：
+#     python gate.py --src output/user_result.raw.txt \
+#                    --dst output/user_result.txt \
+#                    --min-headroom 1.5 --max-per-channel 8 \
+#                    --report output/gate_report.json
 
 on:
   workflow_run:
@@ -31,29 +41,26 @@ jobs:
         with:
           python-version: '3.13'
 
-      - name: Structural gate for result.m3u
+      - name: Structural gate for user_result.txt (in place)
         run: |
-          python gate.py --src output/result.m3u \
-                         --dst output/gated.m3u \
+          set -e
+          if [ ! -f output/user_result.txt ]; then
+            echo "user_result.txt 不存在，跳过"; exit 0
+          fi
+          cp output/user_result.txt output/user_result.raw.txt
+          python gate.py --src output/user_result.raw.txt \
+                         --dst output/user_result.txt \
                          --no-network \
+                         --max-per-channel 40 \
+                         --host-ratio 1.0 \
                          --report output/gate_report.json
 
-      - name: Structural gate for config/diy.txt
-        continue-on-error: true
-        run: |
-          python gate.py --src config/diy.txt \
-                         --dst output/gated_diy.m3u \
-                         --no-network \
-                         --host-ratio 1.0 \
-                         --report output/gate_diy_report.json
-
-      - name: Commit gated playlists
+      - name: Commit
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add output/gated.m3u output/gate_report.json
-          git add output/gated_diy.m3u output/gate_diy_report.json || true
+          git add output/user_result.txt output/user_result.raw.txt output/gate_report.json || true
           if ! git diff --staged --quiet; then
-            git commit -m "Quality gate: refresh gated playlists"
+            git commit -m "Quality gate: refresh user_result.txt"
             git push
           fi
