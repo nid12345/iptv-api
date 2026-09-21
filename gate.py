@@ -43,6 +43,7 @@ import re
 import ssl
 import statistics
 import sys
+import threading
 import time
 import urllib.error
 import urllib.request
@@ -148,7 +149,7 @@ def make_opener(insecure):
     return urllib.request.build_opener(*handlers)
 
 
-def fetch(url, opener, ua, timeout, referer=None, byte_range=None):
+def _fetch_impl(url, opener, ua, timeout, referer=None, byte_range=None):
     r = {"ok": False, "bytes": 0, "ms": None, "status": None,
          "final": url, "data": b"", "err": ""}
     h = {"User-Agent": ua, "Accept": "*/*", "Accept-Encoding": "identity"}
@@ -174,6 +175,32 @@ def fetch(url, opener, ua, timeout, referer=None, byte_range=None):
         r["ms"] = (time.perf_counter() - t0) * 1000.0
         r["err"] = f"{type(e).__name__}: {str(e)[:90]}"
     return r
+
+
+def fetch(url, opener, ua, timeout, referer=None, byte_range=None, hard_timeout=None):
+    """带硬超时的包装 —— `urllib` 的 timeout 不约束 DNS 解析。
+
+    实测 531 条源里有 11 条会让 getaddrinfo 挂住，把整个任务从 15 分钟
+    拖到 45 分钟以上。守护线程兜底后，超时的源直接判失败，不拖累整体。
+    """
+    hard = hard_timeout if hard_timeout else max(timeout * 2 + 6, 20.0)
+    box = {}
+
+    def runner():
+        try:
+            box.update(_fetch_impl(url, opener, ua, timeout, referer, byte_range))
+        except Exception as e:  # noqa: BLE001
+            box["err"] = f"{type(e).__name__}: {str(e)[:90]}"
+
+    th = threading.Thread(target=runner, daemon=True)
+    th.start()
+    th.join(hard)
+    if th.is_alive():
+        return {"ok": False, "bytes": 0, "ms": hard * 1000.0, "status": None,
+                "final": url, "data": b"",
+                "err": f"硬超时 (>{hard:.0f}s)"}
+    return box or {"ok": False, "bytes": 0, "ms": None, "status": None,
+                   "final": url, "data": b"", "err": "未返回结果"}
 
 
 def parse_attrs(line):
@@ -462,7 +489,10 @@ def main():
             if len(good) < opts.min_per_channel:
                 fallback = [x for x in lst if x.get("alive")]
                 if not fallback:
-                    warn.append({"channel": chan, "issue": "无可播源"})
+                    # 全部不可达：保留原样 1 条，避免把条目信息（如 iptv-api 写入的
+                    # "更新时间"版本标记）直接从订阅里抹掉
+                    warn.append({"channel": chan, "issue": "无可播源，保留原样 1 条"})
+                    gated.extend(lst[:1])
                     continue
                 if len(good) < opts.min_per_channel:
                     warn.append({"channel": chan,
