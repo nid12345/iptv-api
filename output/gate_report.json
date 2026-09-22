@@ -1,73 +1,20 @@
 {
-  "src": "/tmp/urt.txt",
-  "dst": "out/urt_gated.txt",
-  "mode": "full",
+  "src": "output/user_result.raw.txt",
+  "dst": "output/user_result.txt",
+  "mode": "no-network",
   "format": "txt",
-  "input_items": 531,
-  "input_hosts": 98,
-  "dropped_protocol": 9,
+  "input_items": 528,
+  "input_hosts": 105,
+  "dropped_protocol": 12,
   "dropped_duplicate": 0,
-  "probed": 522,
-  "probe_seconds": 378.5,
-  "probe_alive": 367,
-  "probe_alive_ratio": 0.7031,
+  "probe": "skipped",
   "dropped_host_cap": 0,
-  "host_cap_per_domain": 78,
+  "host_cap_per_domain": 516,
   "restored_channels": 0,
   "restored_items": 0,
-  "output_items": 235,
+  "output_items": 516,
   "output_channels": 55,
-  "output_hosts": 56,
-  "warnings": [
-    {
-      "channel": "海南卫视",
-      "issue": "仅 4 条可播，已放宽阈值保留最好的",
-      "best_headroom": 12.13
-    },
-    {
-      "channel": "翡翠台",
-      "issue": "仅 3 条可播，已放宽阈值保留最好的",
-      "best_headroom": 5.55
-    },
-    {
-      "channel": "宁夏卫视",
-      "issue": "仅 4 条可播，已放宽阈值保留最好的",
-      "best_headroom": 4.6
-    },
-    {
-      "channel": "山东卫视",
-      "issue": "仅 3 条可播，已放宽阈值保留最好的",
-      "best_headroom": 4.44
-    },
-    {
-      "channel": "安徽卫视",
-      "issue": "仅 7 条可播，已放宽阈值保留最好的",
-      "best_headroom": 4.26
-    },
-    {
-      "channel": "凤凰香港",
-      "issue": "仅 1 条可播，已放宽阈值保留最好的",
-      "best_headroom": 3.67
-    },
-    {
-      "channel": "吉林卫视",
-      "issue": "仅 7 条可播，已放宽阈值保留最好的",
-      "best_headroom": 3.53
-    },
-    {
-      "channel": "三沙卫视",
-      "issue": "仅 1 条可播，已放宽阈值保留最好的",
-      "best_headroom": 3.52
-    },
-    {
-      "channel": "CCTV-5+",
-      "issue": "仅 5 条可播，已放宽阈值保留最好的",
-      "best_headroom": 1.21
-    },
-    {
-      "channel": "2026-09-21 08:28:32",
-      "issue": "无可播源，保留原样 1 条"
-    }
-  ],
-  "warnings_total": 10
+  "output_hosts": 93,
+  "warnings": [],
+  "warnings_total": 0
 }
