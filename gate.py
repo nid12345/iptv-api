@@ -66,10 +66,13 @@ def parse_playlist(path):
       M3U：  #EXTM3U / #EXTINF:-1 ...,频道名 / 下一行 URL
       TXT：  组名,#genre#  /  频道名,URL        （DIYP / TVBox / iptv-api 的 txt 结果）
 
-    items 元素: {'extinf','name','url','group'}
+    items 元素: {'extinf','name','url','group','order'}
+    `order` = 该频道在源文件里**首次出现的序号**，用于输出时还原原始频道顺序
+    （iptv-api 的频道顺序是精心排过的：央视 1→17、卫视按固定序，不能被按名字排序打乱）。
     """
     out, extinf, group = [], None, ""
     fmt = None
+    chan_order = {}
     with open(path, encoding="utf-8", errors="ignore") as f:
         for raw in f:
             line = raw.rstrip("\r\n")
@@ -86,9 +89,10 @@ def parse_playlist(path):
             if s.startswith("#"):
                 continue
             if extinf is not None:
-                out.append({"extinf": extinf,
-                            "name": extinf.split(",")[-1].strip(),
-                            "url": s, "group": group})
+                nm = extinf.split(",")[-1].strip()
+                chan_order.setdefault(nm, len(chan_order))
+                out.append({"extinf": extinf, "name": nm, "url": s,
+                            "group": group, "order": chan_order[nm]})
                 extinf = None
                 continue
             # TXT 分组行：组名,#genre#   （注意：不以 # 开头）
@@ -102,8 +106,10 @@ def parse_playlist(path):
                 if tail.startswith(("http", "rtmp", "rtsp", "rtp", "udp")):
                     fmt = fmt or "txt"
                     nm = head.strip() or f"ch{len(out) + 1}"
+                    chan_order.setdefault(nm, len(chan_order))
                     out.append({"extinf": f"#EXTINF:-1,{nm}", "name": nm,
-                                "url": tail, "group": group})
+                                "url": tail, "group": group,
+                                "order": chan_order[nm]})
     return out, (fmt or "m3u")
 
 
@@ -502,7 +508,10 @@ def main():
             pick = good[: opts.max_per_channel]
         gated.extend(pick)
 
-    gated.sort(key=lambda x: (x.get("group", ""), x["name"], -x["rank"]))
+    # 按"频道在源文件中的原始顺序"输出（同频道内按质量降序），
+    # 不能用频道名排序 —— iptv-api 的频道顺序是排过的（央视 1→17、卫视固定序），
+    # 按名字排会打乱，用户能直接看出来。
+    gated.sort(key=lambda x: (x.get("order", 999999), -x["rank"]))
     report["output_items"] = len(gated)
     report["output_channels"] = len({x["name"] for x in gated})
     report["output_hosts"] = len({host_of(x["url"]) for x in gated})
