@@ -1,20 +1,224 @@
 {
-  "src": "output/user_result.raw.txt",
-  "dst": "output/user_result.txt",
-  "mode": "no-network",
+  "src": "out/gate_20260927/user_result.raw.txt",
+  "dst": "out/gate_20260927/user_result.txt",
+  "mode": "full",
   "format": "txt",
   "input_items": 524,
   "input_hosts": 99,
   "dropped_protocol": 12,
   "dropped_duplicate": 0,
-  "probe": "skipped",
+  "probed": 512,
+  "probe_seconds": 834.6,
+  "probe_alive": 310,
+  "probe_alive_ratio": 0.6055,
   "dropped_host_cap": 0,
-  "host_cap_per_domain": 512,
+  "host_cap_per_domain": 76,
   "restored_channels": 0,
   "restored_items": 0,
-  "output_items": 512,
+  "output_items": 166,
   "output_channels": 55,
-  "output_hosts": 87,
-  "warnings": [],
-  "warnings_total": 0
+  "output_hosts": 54,
+  "warnings": [
+    {
+      "channel": "凤凰中文",
+      "issue": "仅 6 条可播，已放宽阈值保留最好的",
+      "best_headroom": 44.83
+    },
+    {
+      "channel": "湖南卫视",
+      "issue": "仅 4 条可播，已放宽阈值保留最好的",
+      "best_headroom": 36.26
+    },
+    {
+      "channel": "CCTV-3",
+      "issue": "仅 6 条可播，已放宽阈值保留最好的",
+      "best_headroom": 21.82
+    },
+    {
+      "channel": "海南卫视",
+      "issue": "仅 3 条可播，已放宽阈值保留最好的",
+      "best_headroom": 18.87
+    },
+    {
+      "channel": "CCTV-2",
+      "issue": "仅 8 条可播，已放宽阈值保留最好的",
+      "best_headroom": 18.08
+    },
+    {
+      "channel": "CCTV-4",
+      "issue": "仅 5 条可播，已放宽阈值保留最好的",
+      "best_headroom": 17.96
+    },
+    {
+      "channel": "新疆卫视",
+      "issue": "仅 7 条可播，已放宽阈值保留最好的",
+      "best_headroom": 15.46
+    },
+    {
+      "channel": "河南卫视",
+      "issue": "仅 4 条可播，已放宽阈值保留最好的",
+      "best_headroom": 5.57
+    },
+    {
+      "channel": "北京卫视",
+      "issue": "仅 7 条可播，已放宽阈值保留最好的",
+      "best_headroom": 5.51
+    },
+    {
+      "channel": "CCTV-5+",
+      "issue": "仅 6 条可播，已放宽阈值保留最好的",
+      "best_headroom": 5.21
+    },
+    {
+      "channel": "河北卫视",
+      "issue": "仅 3 条可播，已放宽阈值保留最好的",
+      "best_headroom": 4.04
+    },
+    {
+      "channel": "东南卫视",
+      "issue": "仅 4 条可播，已放宽阈值保留最好的",
+      "best_headroom": 3.64
+    },
+    {
+      "channel": "CCTV-10",
+      "issue": "仅 6 条可播，已放宽阈值保留最好的",
+      "best_headroom": 3.44
+    },
+    {
+      "channel": "吉林卫视",
+      "issue": "仅 4 条可播，已放宽阈值保留最好的",
+      "best_headroom": 3.37
+    },
+    {
+      "channel": "CCTV-14",
+      "issue": "仅 4 条可播，已放宽阈值保留最好的",
+      "best_headroom": 3.27
+    },
+    {
+      "channel": "陕西卫视",
+      "issue": "仅 9 条可播，已放宽阈值保留最好的",
+      "best_headroom": 2.67
+    },
+    {
+      "channel": "江苏卫视",
+      "issue": "仅 3 条可播，已放宽阈值保留最好的",
+      "best_headroom": 2.54
+    },
+    {
+      "channel": "青海卫视",
+      "issue": "仅 6 条可播，已放宽阈值保留最好的",
+      "best_headroom": 2.54
+    },
+    {
+      "channel": "西藏卫视",
+      "issue": "仅 5 条可播，已放宽阈值保留最好的",
+      "best_headroom": 2.43
+    },
+    {
+      "channel": "CCTV-11",
+      "issue": "仅 6 条可播，已放宽阈值保留最好的",
+      "best_headroom": 2.3
+    },
+    {
+      "channel": "广东卫视",
+      "issue": "仅 7 条可播，已放宽阈值保留最好的",
+      "best_headroom": 2.28
+    },
+    {
+      "channel": "四川卫视",
+      "issue": "仅 7 条可播，已放宽阈值保留最好的",
+      "best_headroom": 2.09
+    },
+    {
+      "channel": "贵州卫视",
+      "issue": "仅 7 条可播，已放宽阈值保留最好的",
+      "best_headroom": 2.06
+    },
+    {
+      "channel": "CCTV-16",
+      "issue": "仅 4 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.93
+    },
+    {
+      "channel": "甘肃卫视",
+      "issue": "仅 6 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.9
+    },
+    {
+      "channel": "安徽卫视",
+      "issue": "仅 4 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.86
+    },
+    {
+      "channel": "凤凰香港",
+      "issue": "仅 1 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.86
+    },
+    {
+      "channel": "广西卫视",
+      "issue": "仅 3 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.85
+    },
+    {
+      "channel": "云南卫视",
+      "issue": "仅 6 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.83
+    },
+    {
+      "channel": "湖北卫视",
+      "issue": "仅 5 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.79
+    },
+    {
+      "channel": "重庆卫视",
+      "issue": "仅 5 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.75
+    },
+    {
+      "channel": "CCTV-15",
+      "issue": "仅 9 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.66
+    },
+    {
+      "channel": "山东卫视",
+      "issue": "仅 5 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.58
+    },
+    {
+      "channel": "天津卫视",
+      "issue": "仅 8 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.5
+    },
+    {
+      "channel": "CCTV-6",
+      "issue": "仅 6 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.25
+    },
+    {
+      "channel": "CCTV-5",
+      "issue": "仅 4 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.13
+    },
+    {
+      "channel": "翡翠台",
+      "issue": "仅 2 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.13
+    },
+    {
+      "channel": "CCTV-12",
+      "issue": "仅 6 条可播，已放宽阈值保留最好的",
+      "best_headroom": 1.07
+    },
+    {
+      "channel": "宁夏卫视",
+      "issue": "仅 6 条可播，已放宽阈值保留最好的",
+      "best_headroom": 0.97
+    },
+    {
+      "channel": "三沙卫视",
+      "issue": "仅 2 条可播，已放宽阈值保留最好的",
+      "best_headroom": 0.93
+    }
+  ],
+  "warnings_total": 41
 }
