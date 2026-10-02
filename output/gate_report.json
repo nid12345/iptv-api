@@ -4,7 +4,7 @@
   "mode": "no-network",
   "format": "txt",
   "input_items": 529,
-  "input_hosts": 101,
+  "input_hosts": 104,
   "dropped_protocol": 11,
   "dropped_duplicate": 0,
   "probe": "skipped",
@@ -14,7 +14,7 @@
   "restored_items": 0,
   "output_items": 518,
   "output_channels": 56,
-  "output_hosts": 90,
+  "output_hosts": 93,
   "warnings": [],
   "warnings_total": 0
 }
