@@ -1,7 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
@@ -9,13 +8,5 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.
 
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
-
-https://raw.githubusercontent.com/nid12345/tonkiang_crawler/refs/heads/main/output/wstv.m3u
-https://raw.githubusercontent.com/nid12345/tonkiang_crawler/refs/heads/main/output/ysws.m3u
 https://tvlive.nide.qzz.io
-
-https://raw.githubusercontent.com/nid12345/tvbox/refs/heads/main/tvbox/live.txt
-
-https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-
 https://raw.giteeusercontent.com/nid123/live-feed/raw/master/output/relay_extra.txt
