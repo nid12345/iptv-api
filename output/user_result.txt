@@ -18,6 +18,30 @@
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有線新聞台,http://cm61-10-2-140.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有線新聞台,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+Astro AOD,https://cdn3.indevs.in/stream/live/aod/
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+天映经典,https://cdn3.indevs.in/stream/live/ccm/
+Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
+华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
+千禧經典台,https://cdn3.indevs.in/stream/live/tvbc/
+Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
+华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/
+翡翠台4K字幕,https://cdn3.indevs.in/stream/tvb/fct4k/
+天映,https://cdn3.indevs.in/stream/live/typd/
+TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
+Astro AEC,https://cdn3.indevs.in/stream/live/aec/
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+明珠台,http://r.jdshipin.com/jUx8K
+明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
+TVB Plus,http://r.jdshipin.com/ndGgS
+HOY76,https://cdn11.163189.xyz/163189/hoy76
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1,http://t.061899.xyz/tl/tl.php?id=cctv1
