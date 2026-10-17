@@ -2,15 +2,22 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 22 * * *'
+    # 每天北京时间 03:17 执行一次。
+    # GitHub Actions 的 cron 固定按 UTC 计算，不支持指定时区：
+    #   UTC 19:17 = 北京时间次日 03:17（UTC+8）
+    # 刻意避开整点：每小时开始是负载高峰，定时事件会被延后甚至丢弃。
+    - cron: '17 19 * * *'
   workflow_dispatch:
-    branches:
-      - master
-      - dev
-      - gd
+
+# 定时任务与手动触发不叠加：同一时刻只跑一个，其余排队等待，互不取消。
+concurrency:
+  group: update-schedule
+  cancel-in-progress: false
+
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
+    timeout-minutes: 300
     strategy:
       matrix:
         operating-system: [ 'ubuntu-latest' ]
