@@ -10,3 +10,4 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
 https://tvlive.nide.qzz.io
 https://raw.giteeusercontent.com/nid123/live-feed/raw/master/output/relay_extra.txt
+http://zo.gt.tc/o/i/广东移动.txt
