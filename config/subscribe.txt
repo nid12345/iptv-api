@@ -12,3 +12,4 @@ https://tvlive.nide.qzz.io
 https://raw.giteeusercontent.com/nid123/live-feed/raw/master/output/relay_extra.txt
 http://zo.gt.tc/o/i/广东移动.txt
 https://php.946985.filegear-sg.me/jackTV.m3u
+https://iptv.nide.qzz.io/interface.m3u
