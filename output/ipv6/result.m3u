@@ -408,9 +408,9 @@ https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 https://cdn3.indevs.in/stream/live/hlt/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
+http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
@@ -447,5 +447,5 @@ https://cdn3.indevs.in/stream/live/jade/
 https://cdn3.indevs.in/stream/live/jade/
 #EXTINF:-1 tvg-name="华丽翡翠台新加坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台新加坡.png" group-title="🇭🇰香港频道",华丽翡翠台新加坡
 https://cdn3.indevs.in/stream/live/jade/
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-25 06:18:15
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-26 06:27:46
 https://iptv.nide.qzz.io/relay/ysp-cctv1.m3u8

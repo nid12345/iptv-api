@@ -207,8 +207,8 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,https://cdn3.indevs.in/stream/live/hlt/
-翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
@@ -229,4 +229,4 @@ Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
 
 🕘️更新时间,#genre#
-2026-10-25 06:18:15,https://iptv.nide.qzz.io/relay/ysp-cctv1.m3u8
+2026-10-26 06:27:46,https://iptv.nide.qzz.io/relay/ysp-cctv1.m3u8
