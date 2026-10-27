@@ -6,6 +6,6 @@
 华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
-https://iptv.nide.qzz.io/interface.m3u
+https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/m3u
 https://raw.giteeusercontent.com/nid123/live-feed/raw/master/output/relay_extra.txt
 http://zo.gt.tc/o/i/广东移动.txt
