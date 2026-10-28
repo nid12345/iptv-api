@@ -35,3 +35,4 @@ rtmp://oc-play-ali.vipkid.com.cn
 http://l.cztvcloud.com
 http://ali-vl.cztv.com
 https://live.264788.xyz
+https://ali-m-l.cztv.com
