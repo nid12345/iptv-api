@@ -7,5 +7,6 @@
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/txt
-https://raw.giteeusercontent.com/nid123/live-feed/raw/master/output/relay_extra.txt
+https://php.946985.filegear-sg.me/jackTV.m3u
 http://zo.gt.tc/o/i/广东移动.txt
+https://raw.giteeusercontent.com/nid123/live-feed/raw/master/output/relay_extra.txt
