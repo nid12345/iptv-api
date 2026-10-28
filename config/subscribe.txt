@@ -11,4 +11,3 @@ http://zo.gt.tc/o/i/广东移动.txt
 https://php.946985.filegear-sg.me/jackTV.m3u
 https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/txt
 
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
