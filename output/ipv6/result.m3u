@@ -33,8 +33,6 @@ https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv11.m3u8
 https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv12.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv13.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://go.bkpcp.top/mg/cctv13
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv14.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
@@ -110,21 +108,19 @@ https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-ynws.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-https://cdn3.indevs.in/stream/live/hlt/
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
+https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🇭🇰香港频道",明珠台
 https://cdn3.indevs.in/stream/tvb/mzt/
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🇭🇰香港频道",明珠台
 http://r.jdshipin.com/jUx8K
-#EXTINF:-1 tvg-name="Astro 爱奇艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astro 爱奇艺.png" group-title="🇭🇰香港频道",Astro 爱奇艺
-https://cdn3.indevs.in/stream/live/iqiyi/
 #EXTINF:-1 tvg-name="华丽翡翠台新加坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台新加坡.png" group-title="🇭🇰香港频道",华丽翡翠台新加坡
 https://cdn3.indevs.in/stream/live/jade/
 #EXTINF:-1 tvg-name="华丽翡翠台新加坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台新加坡.png" group-title="🇭🇰香港频道",华丽翡翠台新加坡
@@ -133,7 +129,5 @@ https://cdn3.indevs.in/stream/live/jade/
 https://cdn3.indevs.in/stream/live/jade/
 #EXTINF:-1 tvg-name="翡翠台4K字幕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台4K字幕.png" group-title="🇭🇰香港频道",翡翠台4K字幕
 https://cdn3.indevs.in/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🇭🇰香港频道",TVB星河
-https://cdn3.indevs.in/stream/live/tvb-xh/
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-29 07:46:04
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-30 07:48:38
 https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv1.m3u8
