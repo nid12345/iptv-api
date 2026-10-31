@@ -16,7 +16,6 @@ CCTV-10,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv10.m3u
 CCTV-11,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv11.m3u8
 CCTV-12,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv12.m3u8
 CCTV-13,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv13.m3u8
-CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-14,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv14.m3u8
 CCTV-15,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv15.m3u8
 CCTV-16,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv164k.m3u8
@@ -59,18 +58,18 @@ CCTV-17,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv17.m3u
 🇭🇰香港频道,#genre#
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
-翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 凤凰中文,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/fengshows-chinese.flv
 凤凰香港,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/fengshows-hongkong.flv
-明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
 明珠台,http://r.jdshipin.com/jUx8K
+明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
 华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
 华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
 华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
 翡翠台4K字幕,https://cdn3.indevs.in/stream/tvb/fct4k/
 
 🕘️更新时间,#genre#
-2026-10-31 07:28:43,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv1.m3u8
+2026-11-01 06:57:56,https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv1.m3u8
