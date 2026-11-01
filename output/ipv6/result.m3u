@@ -122,9 +122,9 @@ https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/fengshows-chinese.flv
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🇭🇰香港频道",凤凰香港
 https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/fengshows-hongkong.flv
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🇭🇰香港频道",明珠台
-http://r.jdshipin.com/jUx8K
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🇭🇰香港频道",明珠台
 https://cdn3.indevs.in/stream/tvb/mzt/
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🇭🇰香港频道",明珠台
+http://r.jdshipin.com/jUx8K
 #EXTINF:-1 tvg-name="华丽翡翠台新加坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台新加坡.png" group-title="🇭🇰香港频道",华丽翡翠台新加坡
 https://cdn3.indevs.in/stream/live/jade/
 #EXTINF:-1 tvg-name="华丽翡翠台新加坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台新加坡.png" group-title="🇭🇰香港频道",华丽翡翠台新加坡
@@ -133,5 +133,5 @@ https://cdn3.indevs.in/stream/live/jade/
 https://cdn3.indevs.in/stream/live/jade/
 #EXTINF:-1 tvg-name="翡翠台4K字幕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台4K字幕.png" group-title="🇭🇰香港频道",翡翠台4K字幕
 https://cdn3.indevs.in/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-01 06:57:56
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-02 07:20:17
 https://iptv.nide.qzz.io/u/jxkLUe8vEojkVE2Sf0Owxeov/relay/ysp-cctv1.m3u8
