@@ -57,20 +57,20 @@ CCTV-17,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv17.m3u
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,https://cdn3.indevs.in/stream/live/hlt/
-翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 凤凰中文,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-chinese.flv
 凤凰香港,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-hongkong.flv
-明珠台,http://r.jdshipin.com/jUx8K
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
+明珠台,http://r.jdshipin.com/jUx8K
 Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
 华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
 华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
 翡翠台4K字幕,https://cdn3.indevs.in/stream/tvb/fct4k/
-TVB星河,https://cdn3.indevs.in/stream/live/tvb-xh/
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 
 🕘️更新时间,#genre#
-2026-11-05 08:46:41,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
+2026-11-06 08:37:54,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
