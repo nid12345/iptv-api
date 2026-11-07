@@ -57,8 +57,8 @@ CCTV-17,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv17.m3u
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,https://cdn3.indevs.in/stream/live/hlt/
-翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 凤凰中文,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-chinese.flv
@@ -73,4 +73,4 @@ Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 
 🕘️更新时间,#genre#
-2026-11-06 08:37:54,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
+2026-11-07 08:06:55,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
