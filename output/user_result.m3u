@@ -1,169 +1,285 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/nid12345/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/979f8b801eb32647f15e.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV1综合
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/978ac48f4677787e5f5b.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV2财经
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv2.m3u8
-#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/bcc7b4516a97c94fbcbc.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV3综艺
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv3.m3u8
-#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/6c32a2cf56f3af2f9aa9.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV4中文国际
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv4.m3u8
-#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/9dfd3605325710b787b8.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV5体育
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv5.m3u8
-#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/d4bc2764add99fc09abb.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV5+体育赛事
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/32c8763906ddcf7e5e5e.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV6电影
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv6.m3u8
-#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/b63b4fc3029c7a191255.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV7国防军事
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv7.m3u8
-#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/f067944575d1f8a76d90.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV8电视剧
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv8.m3u8
-#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/07a2c0c847baaf3aa30b.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV9纪录
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv9.m3u8
-#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/a1943e1d8fa1d5350247.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV10科教
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv10.m3u8
-#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/999f86b405e7de5f883a.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV11戏曲
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv11.m3u8
-#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/24bd9907a07ab68d6d91.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV12社会与法
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv12.m3u8
-#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/389b095f1975c233b24e.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV13新闻
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv13.m3u8
-#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/598b4dbbbc2d9a5fa7a2.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV14少儿
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv14.m3u8
-#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/b43d639f2c00342b9e76.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV15音乐
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv15.m3u8
-#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/856f4c168a3f679b3d63.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV16奥林匹克
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv16.m3u8
-#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/856f4c168a3f679b3d63.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV16 4K
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv164k.m3u8
-#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/6105992a112cbfeca035.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV17农业农村
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv17.m3u8
-#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/81913c237b88b0eacf5f.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV4K超高清
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV8K超高清" tvg-name="CCTV8K超高清" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/3d7fdb631c94addb4f5a.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV8K超高清
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv8k.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/901e3d6e1207bb50d9f1.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CGTN
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtn.m3u8
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/7f5ee36c2d0bc77bc616.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CGTN法语
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnfy.m3u8
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/d97a004f9753193814ae.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CGTN俄语
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtney.m3u8
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/87d60d82ddff43c3b57d.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CGTN阿拉伯语
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnalby.m3u8
-#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/65af66d2c34421e179f0.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CGTN西班牙语
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnxby.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/6e58a236f5a47e52bb15.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CGTN纪录
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnwyjl.m3u8
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/23f7a8332f7ad862bed5.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV风云剧场
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctvfyjc.m3u8
-#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/31c178ca2b43d36403df.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV第一剧场
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctvdyjc.m3u8
-#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/fc0063763ec8cb718175.png?v=1794400144010&from=source" catchup="none" group-title="央视频",CCTV怀旧剧场
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctvhjjc.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/0aeaf0aae8c670a8629e.png?v=1794400144010&from=source" catchup="none" group-title="央视频",北京卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-bjws.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/bd212357c7ec7e651875.png?v=1794400144010&from=source" catchup="none" group-title="央视频",江苏卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-jsws.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/6fc630f60798249ef3c4.png?v=1794400144010&from=source" catchup="none" group-title="央视频",东方卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-dfws.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/6b4097b43495e6611e67.png?v=1794400144010&from=source" catchup="none" group-title="央视频",浙江卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-zjws.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/60c1c4eb0e589d2970f0.png?v=1794400144010&from=source" catchup="none" group-title="央视频",湖南卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-hnws.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/464d6ae0e03b0f806628.png?v=1794400144010&from=source" catchup="none" group-title="央视频",湖北卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-hbws.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/3b749da8f48801b9f0c8.png?v=1794400144010&from=source" catchup="none" group-title="央视频",广东卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-gdws.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/78021cbc932f56433df6.png?v=1794400144010&from=source" catchup="none" group-title="央视频",广西卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-gxws.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/a18ae2b181b4259b34cd.png?v=1794400144010&from=source" catchup="none" group-title="央视频",黑龙江卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-hljws.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/26f27e4b4984c10f8c0a.png?v=1794400144010&from=source" catchup="none" group-title="央视频",海南卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-hnws2.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/fc67cbc0b1a70ddd46c7.png?v=1794400144010&from=source" catchup="none" group-title="央视频",重庆卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cqws.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/c7f6903cb5cedebead12.png?v=1794400144010&from=source" catchup="none" group-title="央视频",深圳卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-szws.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/361fc947ad4ce7c4a8fc.png?v=1794400144010&from=source" catchup="none" group-title="央视频",四川卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-scws.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/275fce999e011a2ecc11.png?v=1794400144010&from=source" catchup="none" group-title="央视频",河南卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-henanws.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/f71a0e6c774030377974.png?v=1794400144010&from=source" catchup="none" group-title="央视频",东南卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-fjdnhz.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/1243f99ca46889d57ce7.png?v=1794400144010&from=source" catchup="none" group-title="央视频",贵州卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-gzhws.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/a532fbe926554111641a.png?v=1794400144010&from=source" catchup="none" group-title="央视频",江西卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-jxws.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/019c8976cc52a7e10d4d.png?v=1794400144010&from=source" catchup="none" group-title="央视频",辽宁卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-lnws.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/69ecbdb0d532b6856d10.png?v=1794400144010&from=source" catchup="none" group-title="央视频",安徽卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-ahws.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/e3562c142c21014ad83c.png?v=1794400144010&from=source" catchup="none" group-title="央视频",河北卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-hbws2.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/8c7ed13dd0f6c22c5e27.png?v=1794400144010&from=source" catchup="none" group-title="央视频",山东卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-sdws.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/88d97601e02ef6bd8e19.png?v=1794400144010&from=source" catchup="none" group-title="央视频",天津卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-tjws.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/e423452176bafc14235c.png?v=1794400144010&from=source" catchup="none" group-title="央视频",吉林卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-jlws.m3u8
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/0ce49ebd2023cc284bab.png?v=1794400144010&from=source" catchup="none" group-title="央视频",陕西卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-shanxiws.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/8585f68d39f94e777e20.png?v=1794400144010&from=source" catchup="none" group-title="央视频",宁夏卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-nxws.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/5d210a749162d10658f1.png?v=1794400144010&from=source" catchup="none" group-title="央视频",内蒙古卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-nmgws.m3u8
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/e943bc922b02b9b50c14.png?v=1794400144010&from=source" catchup="none" group-title="央视频",云南卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-ynws.m3u8
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/46984de495cd52fa7e73.png?v=1794400144010&from=source" catchup="none" group-title="央视频",山西卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-shanxiws2.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/6f436b938051ee9341ba.png?v=1794400144010&from=source" catchup="none" group-title="央视频",青海卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-qhws.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/f42dc6754454663f1a21.png?v=1794400144010&from=source" catchup="none" group-title="央视频",西藏卫视
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-xzws.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/9fca1dd949dc3ac7be35.png?v=1794400144010&from=source" catchup="none" group-title="香港",凤凰资讯
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/fengshows-info.flv?live=1
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/17a2a0bdc9150400e64b.png?v=1794400144010&from=source" catchup="none" group-title="香港",凤凰中文
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/fengshows-chinese.flv?live=1
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/logo-cache/0ed1631cad44391e486c.png?v=1794400144010&from=source" catchup="none" group-title="香港",凤凰香港
-https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/fengshows-hongkong.flv?live=1
+📺央视频道,#genre#
+CCTV-1,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-1,https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+CCTV-1,http://112.99.195.122:65000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://shuangyashan.coccc.online:65000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://115.150.63.77:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://120.196.235.42:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://zzssw01.55555.io:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://49.234.31.101:7040/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv2.m3u8
+CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://shuangyashan.coccc.online:65000/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://115.150.63.77:9902/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://112.99.195.122:65000/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://120.196.235.42:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://49.234.31.101:7040/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://zzssw01.55555.io:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv3.m3u8
+CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-3,http://shuangyashan.coccc.online:65000/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://112.99.195.122:65000/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://115.150.63.77:9902/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://120.196.235.42:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://49.234.31.101:7040/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv4.m3u8
+CCTV-4,http://shuangyashan.coccc.online:65000/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://112.99.195.122:65000/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://115.150.63.77:9902/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://120.196.235.42:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://49.234.31.101:7040/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://shuangyashan.coccc.online:65000/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://112.99.195.122:65000/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://115.150.63.77:9902/tsfile/live/0001_5.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://120.196.235.42:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://49.234.31.101:7040/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://zzssw01.55555.io:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://115.150.63.77:9902/tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://153.0.171.163:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://120.196.235.42:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv6.m3u8
+CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-6,http://shuangyashan.coccc.online:65000/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://112.99.195.122:65000/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://115.150.63.77:9902/tsfile/live/0001_7.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://120.196.235.42:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://zzssw01.55555.io:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv7.m3u8
+CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-7,http://shuangyashan.coccc.online:65000/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://112.99.195.122:65000/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://115.150.63.77:9902/tsfile/live/0001_8.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://120.196.235.42:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://zzssw01.55555.io:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv8.m3u8
+CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8,http://shuangyashan.coccc.online:65000/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://112.99.195.122:65000/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://115.150.63.77:9902/tsfile/live/0001_9.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://120.196.235.42:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://zzssw01.55555.io:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv9.m3u8
+CCTV-9,http://shuangyashan.coccc.online:65000/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://115.150.63.77:9902/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://112.99.195.122:65000/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://120.196.235.42:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://zzssw01.55555.io:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv10.m3u8
+CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-10,http://shuangyashan.coccc.online:65000/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://112.99.195.122:65000/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://115.150.63.77:9902/tsfile/live/0001_11.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://120.196.235.42:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://49.234.31.101:7040/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://zzssw01.55555.io:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv11.m3u8
+CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-11,http://112.99.195.122:65000/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://shuangyashan.coccc.online:65000/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://115.150.63.77:9902/tsfile/live/0001_12.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://120.196.235.42:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://zzssw01.55555.io:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://49.234.31.101:7040/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv12.m3u8
+CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-12,http://112.99.195.122:65000/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://shuangyashan.coccc.online:65000/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://115.150.63.77:9902/tsfile/live/0001_13.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://120.196.235.42:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://49.234.31.101:7040/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://zzssw01.55555.io:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv13.m3u8
+CCTV-13,http://go.bkpcp.top/mg/cctv13
+CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV-13,http://115.150.63.77:9902/tsfile/live/0001_14.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://120.196.235.42:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://zzssw01.55555.io:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://49.234.31.101:7040/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv14.m3u8
+CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-14,http://shuangyashan.coccc.online:65000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://112.99.195.122:65000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://115.150.63.77:9902/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://120.196.235.42:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://zzssw01.55555.io:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://49.234.31.101:7040/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv15.m3u8
+CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV-15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://115.150.63.77:9902/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://120.196.235.42:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://zzssw01.55555.io:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://49.234.31.101:7040/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv164k.m3u8
+CCTV-17,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv17.m3u8
+CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-17,http://115.150.63.77:9902/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 
+📡卫视频道,#genre#
+广东卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-gdws.m3u8
+广东卫视,http://112.99.195.122:65000/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://153.0.171.163:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-zjws.m3u8
+浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://112.99.195.122:65000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://zzssw01.55555.io:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-hnws.m3u8
+湖南卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://112.99.195.122:65000/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://153.0.171.163:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://zzssw01.55555.io:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-bjws.m3u8
+北京卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://112.99.195.122:65000/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://115.150.63.77:9902/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://120.196.235.42:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-hbws.m3u8
+湖北卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://112.99.195.122:65000/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://153.0.171.163:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-hljws.m3u8
+黑龙江卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://153.0.171.163:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://112.99.195.122:65000/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-ahws.m3u8
+安徽卫视,http://112.99.195.122:65000/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cqws.m3u8
+重庆卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://112.99.195.122:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://zzssw01.55555.io:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-dfws.m3u8
+东方卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://112.99.195.122:65000/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://zzssw01.55555.io:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-fjdnhz.m3u8
+东南卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://112.99.195.122:65000/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-gxws.m3u8
+广西卫视,http://153.0.171.163:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-gzhws.m3u8
+贵州卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://112.99.195.122:65000/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-hnws2.m3u8
+河北卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-hbws2.m3u8
+河北卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://112.99.195.122:65000/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-henanws.m3u8
+河南卫视,http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-jlws.m3u8
+吉林卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://112.99.195.122:65000/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-jsws.m3u8
+江苏卫视,http://112.99.195.122:65000/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-jxws.m3u8
+江西卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://112.99.195.122:65000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-lnws.m3u8
+辽宁卫视,http://112.99.195.122:65000/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-nmgws.m3u8
+内蒙古卫视,http://112.99.195.122:65000/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://153.0.171.163:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-nxws.m3u8
+宁夏卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://112.99.195.122:65000/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://153.0.171.163:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://120.196.235.42:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://49.234.31.101:7011/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-qhws.m3u8
+青海卫视,http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-sdws.m3u8
+山东卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://112.99.195.122:65000/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://zzssw01.55555.io:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-shanxiws2.m3u8
+山西卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://112.99.195.122:65000/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://120.196.235.42:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://49.234.31.101:7011/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-shanxiws.m3u8
+陕西卫视,http://112.99.195.122:65000/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://120.196.235.42:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://49.234.31.101:7011/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-scws.m3u8
+四川卫视,http://112.99.195.122:65000/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://153.0.171.163:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-szws.m3u8
+深圳卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://112.99.195.122:65000/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://zzssw01.55555.io:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-tjws.m3u8
+天津卫视,http://112.99.195.122:65000/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-xzws.m3u8
+西藏卫视,http://112.99.195.122:65000/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://120.196.235.42:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://49.234.31.101:7011/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-xjws.m3u8
+新疆卫视,http://112.99.195.122:65000/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-ynws.m3u8
+云南卫视,http://112.99.195.122:65000/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-https://cdn3.indevs.in/stream/tvb/fct/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-https://cdn3.indevs.in/stream/live/hlt/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-https://cdn3.indevs.in/stream/tvb/fct/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-https://cdn3.indevs.in/stream/tvb/fct/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-http://120.196.235.42:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-http://49.234.31.101:7011/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🇭🇰香港频道",凤凰中文
-https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-chinese.flv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🇭🇰香港频道",凤凰香港
-https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-hongkong.flv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🇭🇰香港频道",明珠台
-https://cdn3.indevs.in/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🇭🇰香港频道",明珠台
-http://r.jdshipin.com/jUx8K
-#EXTINF:-1 tvg-name="Astro 爱奇艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astro 爱奇艺.png" group-title="🇭🇰香港频道",Astro 爱奇艺
-https://cdn3.indevs.in/stream/live/iqiyi/
-#EXTINF:-1 tvg-name="华丽翡翠台新加坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台新加坡.png" group-title="🇭🇰香港频道",华丽翡翠台新加坡
-https://cdn3.indevs.in/stream/live/jade/
-#EXTINF:-1 tvg-name="华丽翡翠台新加坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台新加坡.png" group-title="🇭🇰香港频道",华丽翡翠台新加坡
-https://cdn3.indevs.in/stream/live/jade/
-#EXTINF:-1 tvg-name="华丽翡翠台新加坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台新加坡.png" group-title="🇭🇰香港频道",华丽翡翠台新加坡
-https://cdn3.indevs.in/stream/live/jade/
-#EXTINF:-1 tvg-name="翡翠台4K字幕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台4K字幕.png" group-title="🇭🇰香港频道",翡翠台4K字幕
-https://cdn3.indevs.in/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🇭🇰香港频道",TVB星河
-https://cdn3.indevs.in/stream/live/tvbxh/
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-07 08:06:55
-https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
+🇭🇰香港频道,#genre#
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台,https://cdn3.indevs.in/stream/live/hlt/
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台,http://120.196.235.42:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://49.234.31.101:7011/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-chinese.flv
+凤凰香港,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-hongkong.flv
+明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
+明珠台,http://r.jdshipin.com/jUx8K
+Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
+华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
+华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
+华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
+翡翠台4K字幕,https://cdn3.indevs.in/stream/tvb/fct4k/
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+
+🕘️更新时间,#genre#
+2026-11-07 08:06:55,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
