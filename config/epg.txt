@@ -5,3 +5,4 @@ http://epg.51zmt.top:8000/e.xml
 https://e.erw.cc/e.xml
 https://raw.githubusercontent.com/fanmingming/live/main/e.xml
 https://assets.livednow.com/epg.xml
+https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/playback.xml
