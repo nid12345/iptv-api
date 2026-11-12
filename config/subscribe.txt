@@ -9,6 +9,7 @@ https://tvlive.nide.qzz.io
 
 https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/m3u
 https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/interface.m3u
+https://nedkoh-iptv.thevibehosting.com/u/03c-p5GE1ZMXsOQfkGC3PZEh/interface.m3u
 
 https://raw.giteeusercontent.com/nid123/live-feed/raw/master/output/relay_extra.txt
 http://zo.gt.tc/o/i/广东移动.txt
