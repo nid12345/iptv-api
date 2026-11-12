@@ -7,6 +7,7 @@
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/m3u
+https://nedkoh-iptv.thevibehosting.com/u/03c-p5GE1ZMXsOQfkGC3PZEh/interface.m3u
 https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/interface.m3u
 
 https://raw.githubusercontent.com/akiralereal/iptv/main/from-the-web/from-the-web.m3u
