@@ -5,7 +5,6 @@
 
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://tvlive.nide.qzz.io
 
 https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/m3u
 https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/interface.m3u
