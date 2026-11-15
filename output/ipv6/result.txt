@@ -33,6 +33,18 @@ CCTV-15,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv15.m3u8
 CCTV-16,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv164k.m3u8
 CCTV-17,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv17.m3u8
 CCTV-17,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv17.m3u8
+CGTN,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtn.m3u8
+CGTN,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtn.m3u8
+CGTN法语,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtnfy.m3u8
+CGTN法语,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnfy.m3u8
+CGTN俄语,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtney.m3u8
+CGTN俄语,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtney.m3u8
+CGTN阿拉伯语,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtnalby.m3u8
+CGTN阿拉伯语,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnalby.m3u8
+CGTN西班牙语,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtnxby.m3u8
+CGTN西班牙语,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnxby.m3u8
+CGTN纪录,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtnwyjl.m3u8
+CGTN纪录,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnwyjl.m3u8
 
 📡卫视频道,#genre#
 广东卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-gdws.m3u8
@@ -99,23 +111,21 @@ CCTV-17,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv17.m3u8
 云南卫视,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-ynws.m3u8
 
 🇭🇰香港频道,#genre#
-翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,https://cdn3.indevs.in/stream/live/jade/
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,https://cdn3.indevs.in/stream/live/jade/
-翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
-翡翠台,https://cdn3.indevs.in/stream/live/hlt/
+翡翠台,http://r.jdshipin.com/62WM7
 凤凰中文,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-chinese.flv
 凤凰香港,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-hongkong.flv
 明珠台,https://cdn.qd.je/163189/mzt
 明珠台,http://r.jdshipin.com/jUx8K
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
-Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
-华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
-华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
-翡翠台4K字幕,https://cdn3.indevs.in/stream/tvb/fct4k/
 TVB星河,https://cdn6.cc.cd/163189/tvbxh
 TVB星河,https://cdn3.indevs.in/stream/live/tvb-xh/
+华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
+翡翠台4K字幕,https://cdn3.indevs.in/stream/tvb/fct4k/
 
 🕘️更新时间,#genre#
-2026-11-15 20:15:43,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
+2026-11-15 21:03:12,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8

@@ -67,6 +67,30 @@ https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv164k.m3u8
 https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv17.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv17.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="📺央视频道",CGTN
+https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="📺央视频道",CGTN
+https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="📺央视频道",CGTN法语
+https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtnfy.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="📺央视频道",CGTN法语
+https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnfy.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="📺央视频道",CGTN俄语
+https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtney.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="📺央视频道",CGTN俄语
+https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtney.m3u8
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿拉伯语.png" group-title="📺央视频道",CGTN阿拉伯语
+https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtnalby.m3u8
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿拉伯语.png" group-title="📺央视频道",CGTN阿拉伯语
+https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnalby.m3u8
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN西班牙语.png" group-title="📺央视频道",CGTN西班牙语
+https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtnxby.m3u8
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN西班牙语.png" group-title="📺央视频道",CGTN西班牙语
+https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnxby.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录.png" group-title="📺央视频道",CGTN纪录
+https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtnwyjl.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录.png" group-title="📺央视频道",CGTN纪录
+https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnwyjl.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-gdws.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
@@ -192,17 +216,17 @@ https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-ynws.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
 https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-ynws.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-http://r.jdshipin.com/62WM7
+https://cdn3.indevs.in/stream/live/jade/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
+https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 https://cdn3.indevs.in/stream/live/jade/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-https://cdn3.indevs.in/stream/live/hlt/
+http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🇭🇰香港频道",凤凰中文
 https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-chinese.flv
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🇭🇰香港频道",凤凰香港
@@ -213,17 +237,13 @@ https://cdn.qd.je/163189/mzt
 http://r.jdshipin.com/jUx8K
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🇭🇰香港频道",明珠台
 https://cdn3.indevs.in/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="Astro 爱奇艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astro 爱奇艺.png" group-title="🇭🇰香港频道",Astro 爱奇艺
-https://cdn3.indevs.in/stream/live/iqiyi/
-#EXTINF:-1 tvg-name="华丽翡翠台新加坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台新加坡.png" group-title="🇭🇰香港频道",华丽翡翠台新加坡
-https://cdn3.indevs.in/stream/live/jade/
-#EXTINF:-1 tvg-name="华丽翡翠台新加坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台新加坡.png" group-title="🇭🇰香港频道",华丽翡翠台新加坡
-https://cdn3.indevs.in/stream/live/jade/
-#EXTINF:-1 tvg-name="翡翠台4K字幕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台4K字幕.png" group-title="🇭🇰香港频道",翡翠台4K字幕
-https://cdn3.indevs.in/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🇭🇰香港频道",TVB星河
 https://cdn6.cc.cd/163189/tvbxh
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🇭🇰香港频道",TVB星河
 https://cdn3.indevs.in/stream/live/tvb-xh/
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-15 20:15:43
+#EXTINF:-1 tvg-name="华丽翡翠台新加坡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台新加坡.png" group-title="🇭🇰香港频道",华丽翡翠台新加坡
+https://cdn3.indevs.in/stream/live/jade/
+#EXTINF:-1 tvg-name="翡翠台4K字幕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台4K字幕.png" group-title="🇭🇰香港频道",翡翠台4K字幕
+https://cdn3.indevs.in/stream/tvb/fct4k/
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-15 21:03:12
 https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
