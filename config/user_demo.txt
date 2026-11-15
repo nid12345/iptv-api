@@ -19,6 +19,15 @@ CCTV-15
 CCTV-16
 CCTV-17
 
+CGTN
+CGTN法语
+CGTN俄语
+CGTN阿拉伯语
+CGTN西班牙语
+CGTN纪录
+CCTV风云剧场
+CCTV第一剧场
+CCTV怀旧剧场
 
 📡卫视频道,#genre#
 广东卫视
@@ -62,8 +71,7 @@ CCTV-17
 凤凰香港
 有限新闻
 明珠台
-Astro 爱奇艺
-
+TVB星河
 华丽翡翠台新加坡
 翡翠台4K字幕
-TVB星河
+
