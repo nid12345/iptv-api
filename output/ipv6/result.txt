@@ -115,7 +115,6 @@ CGTN纪录,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnwyjl.
 翡翠台,https://cdn3.indevs.in/stream/live/jade/
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://r.jdshipin.com/62WM7
 凤凰中文,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-chinese.flv
 凤凰香港,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/fengshows-hongkong.flv
@@ -123,7 +122,6 @@ CGTN纪录,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnwyjl.
 明珠台,http://r.jdshipin.com/jUx8K
 TVB星河,https://cdn6.cc.cd/163189/tvbxh
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
-翡翠台4K字幕,https://cdn3.indevs.in/stream/tvb/fct4k/
 
 🕘️更新时间,#genre#
-2026-11-19 12:05:00,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
+2026-11-20 12:00:41,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
