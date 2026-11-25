@@ -25,9 +25,9 @@ CGTN俄语
 CGTN阿拉伯语
 CGTN西班牙语
 CGTN纪录
-CCTV风云剧场
-CCTV第一剧场
-CCTV怀旧剧场
+风云剧场
+第一剧场
+怀旧剧场
 
 📡卫视频道,#genre#
 广东卫视
