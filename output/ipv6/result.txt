@@ -26,6 +26,7 @@ CCTV-12,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv12.m3u
 CCTV-12,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv12.m3u8
 CCTV-13,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv13.m3u8
 CCTV-13,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv13.m3u8
+CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-14,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv14.m3u8
 CCTV-14,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctv14.m3u8
 CCTV-15,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv15.m3u8
@@ -45,6 +46,12 @@ CGTN西班牙语,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-c
 CGTN西班牙语,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnxby.m3u8
 CGTN纪录,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cgtnwyjl.m3u8
 CGTN纪录,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnwyjl.m3u8
+风云剧场,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctvfyjc.m3u8
+风云剧场,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctvfyjc.m3u8
+第一剧场,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctvdyjc.m3u8
+第一剧场,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctvdyjc.m3u8
+怀旧剧场,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctvhjjc.m3u8
+怀旧剧场,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cctvhjjc.m3u8
 
 📡卫视频道,#genre#
 广东卫视,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-gdws.m3u8
@@ -124,4 +131,4 @@ TVB星河,https://cdn6.cc.cd/163189/tvbxh
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 
 🕘️更新时间,#genre#
-2026-11-25 13:22:15,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
+2026-11-26 12:43:58,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
