@@ -128,7 +128,7 @@ CGTN纪录,https://iptv.ned.us.ci/u/03c-p5GE1ZMXsOQfkGC3PZEh/relay/ysp-cgtnwyjl.
 明珠台,https://cdn.qd.je/163189/mzt
 明珠台,http://r.jdshipin.com/jUx8K
 TVB星河,https://cdn6.cc.cd/163189/tvbxh
-TVB星河,https://cdn3.indevs.in/stream/live/tvb-xh/
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 
 🕘️更新时间,#genre#
-2026-11-27 12:44:42,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
+2026-11-28 12:26:09,https://iptv.nide.qzz.io/u/KkDbhpSFMf91AE3NHpLFxD6J/relay/ysp-cctv1.m3u8
